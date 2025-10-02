@@ -23,7 +23,7 @@ HTML5, CSS3, JavaScript (ES6)
 [Zagraj online](https://clicker-pixel.netlify.app/)
 
 ## 📂 Struktura projektu
-
+```
 pixel-clicker/
 │── img/
 │ └── pixel-heart.png
@@ -31,7 +31,8 @@ pixel-clicker/
 │── style.css
 │── script.js
 └── README.md
-
+```
 ## 📜 Licencja
 
 Projekt stworzony przez @idkowiaak © 2025. Możesz używać i modyfikować w celach edukacyjnych.
+
